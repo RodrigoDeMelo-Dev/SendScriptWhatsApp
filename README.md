@@ -1,6 +1,6 @@
 # SendScriptWhatsApp
 
-Código para enviar o Script inteiro de Senhor dos Anéis, Shrek ou Bee Movie para seus amigos ou grupos do WhatsApp
+Código para enviar o Script inteiro de Senhor dos Anéis ("o Retorno do Rei"), Shrek ou Bee Movie para seus amigos ou grupos do WhatsApp
 
 ## Utilização
 Abra [lordOfTheRings.js](https://github.com/paulademelo/SendScriptWhatsApp/blob/main/lordOfTheRings.js)
@@ -21,3 +21,5 @@ abra o console do Browser
 Cole o código no console e aperte Enter
 
 Pronto :D
+
+Neste site: [Simply Scripts](https://www.simplyscripts.com/) você consegue encontrar vários scripts para trocar pelo seu favorito, basta copiar e colar dentro do método enviarScript() dos arquivos .js
